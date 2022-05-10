@@ -5,7 +5,6 @@
 - [Links](#links)
 - [Description](#description)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Credit](#credit)
 
 ## Links
