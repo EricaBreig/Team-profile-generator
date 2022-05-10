@@ -1,5 +1,5 @@
 {
-  "name": "hw-10-team-builder",
+  "name": "hw-10-team-profile-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EricaBreig/hw-10-team-builder.git"
+    "url": "git+https://github.com/EricaBreig/hw-10-team-profile-generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EricaBreig/hw-10-team-builder/issues"
+    "url": "https://github.com/EricaBreig/hw-10-team-profile-generator/issues"
   },
-  "homepage": "https://github.com/EricaBreig/hw-10-team-builder#readme",
+  "homepage": "https://github.com/EricaBreig/hw-10-team-profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.0"
